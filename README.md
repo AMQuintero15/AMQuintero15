@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andres Quintero</h1>
 
-<h3 align="center">I am a 27 years old Colombian who loves anime, video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to apply them on future projects. The past 2022 year, I discovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
+<h3 align="center">I am a 27 years old Colombian who loves anime, video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to apply them on future projects. The past 2022 year, I discovered my passion for programming and achieved a full stack web developer certification, I want to share my skills with you. Welcome!!</h3>
 
 ```javascript
 const aboutMe = {
@@ -33,6 +33,17 @@ I made the final reviews and the presentation of the Ecommerce project, accompan
 
 - ⚡ Fun fact **When writing code for many hours, I usually like to listen to relaxing music which helps me to better focus on the task at hand and being able to easily little fixes that could improve the code.**
 
+<h3 align="left">Spoken Languages:</h3>
+- 💬 Beginner A1
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Japan_%28bordered%29.svg" alt="Japanese" width="60" height="40"/>
+</br>
+- 💬 Elementary A2
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" alt="German-Deutsch" width="60" height="40"/>
+</br>
+<a href="https://www.efset.org/cert/moCEbt" target="_blank">
+- 💬 Proficient B2
+<p align="left"> <a href="https://www.efset.org/cert/moCEbt" target="_blank"> <img src="https://images.emojiterra.com/twitter/512px/1f1fa-1f1f8.png" alt="English" width="80" height="60"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andresmauricioquinterotorres/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/andresmauricioquinterotorres/" height="30" width="40" /></a>
@@ -51,7 +62,7 @@ I made the final reviews and the presentation of the Ecommerce project, accompan
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  
+   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amquintero15&show_icons=true&theme=dark&locale=en&layout=compact" alt="AMQuintero15"/></p>
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amquintero15&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="AMQuintero15"/></p>
