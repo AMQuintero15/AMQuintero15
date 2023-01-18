@@ -41,7 +41,7 @@ I made the final reviews and the presentation of the Ecommerce project, accompan
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" alt="German-Deutsch" width="60" height="40"/>
 </br>
 <a href="https://www.efset.org/cert/moCEbt" target="_blank">
-- 💬 Proficient B2
+- 💬 Proficient C2
 <p align="left"> <a href="https://www.efset.org/cert/moCEbt" target="_blank"> <img src="https://images.emojiterra.com/twitter/512px/1f1fa-1f1f8.png" alt="English" width="80" height="60"/>
 
 <h3 align="left">Connect with me:</h3>
