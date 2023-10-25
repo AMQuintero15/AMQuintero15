@@ -5,16 +5,16 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS],
+   code: [Javascript, HTML, CSS, C#],
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
          css: ["Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express"]
+         js: ["Node", "Express", .NET]
       },
-      databases: ["PostgreSQL"],
+      databases: ["PostgreSQL, SSMS"],
       },
       Others: ["Salesforce", "Postman", "Auth0"],
       }
@@ -23,7 +23,7 @@ const aboutMe = {
 
 - 🌱 I’m currently learning **Java, Mocha**
 
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node.JS, Express, PostgreSQL, Auth0, Sequelize**
+- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, .NET, Node.JS, Express, PostgreSQL, SSMS, Auth0, Sequelize**
 
 - 📫 How to reach me **Mauritron_15@hotmail.com**
 
