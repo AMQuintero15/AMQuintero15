@@ -25,7 +25,7 @@ const aboutMe = {
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, .NET, Node.JS, Express, PostgreSQL, SSMS, Auth0, Sequelize**
 
-- 📫 How to reach me **Mauritron_15@hotmail.com**
+- 📫 How to reach me **AndresQuintero.28@hotmail.com**
 
 - 📄 Know about my experiences: In 2022 I participated in the SoyHenry Bootcamp in which I acquired my skills as a web developer, and became a full stack web developer, in the process participating in three individual projects and one Ecommerce as a final project.
 
