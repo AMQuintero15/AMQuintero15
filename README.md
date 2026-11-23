@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andres Quintero</h1>
 
-<h3 align="center">I am a 27 years old Colombian who loves anime, video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to apply them on future projects. The past 2022 year, I discovered my passion for programming and achieved a full stack web developer certification, I want to share my skills with you. Welcome!!</h3>
+<h3 align="center">I am a 30 years old Colombian who loves anime, video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to apply them on future projects. The past 2022 year, I discovered my passion for programming and achieved a full stack web developer certification, I want to share my skills with you. Welcome!!</h3>
 
 ```javascript
 const aboutMe = {
